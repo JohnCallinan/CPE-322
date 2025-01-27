@@ -10,5 +10,5 @@
 
 ### Book Series I Like in No Order
 - Lord of the Rings by J.R.R Tolkien ![Lord of the Rings Book Cover](lotr.jpg)
-- The Black Company by Glenn Cook ![The Black Company Book Cover](Black Company.jpg)
+- The Black Company by Glenn Cook ![The Black Company Book Cover](black company.jpg)
 - Dune by Frank Herbert
