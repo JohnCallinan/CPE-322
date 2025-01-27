@@ -9,6 +9,6 @@
 3. Oath by Cole Wehrle
 
 ### Book Series I Like in No Order
--The Black Company
--Lord of the Rings
--Dune
+- Lord of the Rings by J.R.R Tolkien
+- The Black Company by Glenn Cook
+- Dune by Frank Herbert
