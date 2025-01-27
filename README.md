@@ -1,4 +1,3 @@
 # CPE-322
-## Design 6 
-## By John Callinan
-**This is in bold**
+## John Callinan
+**Hello This is my repo for __Design 6__**
