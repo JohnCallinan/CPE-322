@@ -1,6 +1,6 @@
 # CPE-322
 ## John Callinan
-**Hello This is my repo for _Design 6_**
+**Hello, this is my repo for _Design 6_**
 >Strive for perfection in everything you do. Take the best that exists and make it better - Sir Henery
 ---
 ### My Favorite Board Games in Order
