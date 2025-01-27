@@ -2,7 +2,7 @@
 ## John Callinan
 **Hello This is my repo for _Design 6_**
 >Strive for perfection in everything you do. Take the best that exists and make it better - Sir Henery
-
+---
 ### My Favorite Board Games in Order
 1. [John Company](https://wehrlegig.com/products/john-company-second-edition) by Cole Wehrle
 2. [Catan](https://www.catan.com/catan) by Klaus Teuber
