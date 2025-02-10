@@ -15,4 +15,4 @@
 - Dune by Frank Herbert <img src="Dune.jpg" alt="Dune Book Cover" width="200" height="300">
 ---
 ### Code
-	`print("Hello World")`
+`print("Hello World")`
