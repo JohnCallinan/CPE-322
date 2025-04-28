@@ -1,0 +1,472 @@
+Script started on 2025-04-27 23:17:02-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m hostname
+[?2004lraspberrypi
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m env
+[?2004lSHELL=/bin/bash
+COLORTERM=truecolor
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_MENU_PREFIX=lxde-pi-
+QT_WAYLAND_DISABLE_WINDOWDECORATION=1
+LANGUAGE=en_US.UTF-8
+SSH_AUTH_SOCK=/tmp/ssh-AbfIHhYX6Q50/agent.773
+LABWC_FALLBACK_OUTPUT=NOOP-1
+WLR_XWAYLAND=/usr/bin/xwayland-xauth
+DESKTOP_SESSION=LXDE-pi-labwc
+SSH_AGENT_PID=840
+NO_AT_BRIDGE=1
+XCURSOR_SIZE=24
+XDG_SEAT=seat0
+PWD=/home/jack
+XDG_SESSION_DESKTOP=LXDE-pi-labwc
+LOGNAME=jack
+QT_QPA_PLATFORMTHEME=qt5ct
+WLR_DRM_FORCE_LIBLIFTOFF=1
+XDG_SESSION_TYPE=wayland
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+XAUTHORITY=/home/jack/.Xauthority
+XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/jack
+XKB_DEFAULT_MODEL=pc105
+HOME=/home/jack
+LANG=en_US.UTF-8
+_JAVA_AWT_WM_NONREPARENTING=1
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:
+XDG_CURRENT_DESKTOP=labwc:wlroots
+VTE_VERSION=7006
+WAYLAND_DISPLAY=wayland-0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XKB_DEFAULT_LAYOUT=us
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+USER=jack
+DISPLAY=:0
+SHLVL=2
+XDG_VTNR=7
+XDG_SESSION_ID=1
+XDG_RUNTIME_DIR=/run/user/1000
+LC_ALL=en_US.UTF-8
+XKB_DEFAULT_VARIANT=
+XCURSOR_THEME=PiXflat
+XDG_DATA_DIRS=~/.local/share:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+LABWC_PID=773
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+GDMSESSION=LXDE-pi-labwc
+SAL_USE_VCLPLUGIN=gtk3
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+XKB_DEFAULT_OPTIONS=
+GIO_LAUNCHED_DESKTOP_FILE_PID=1690
+GIO_LAUNCHED_DESKTOP_FILE=/usr/share/raspi-ui-overrides/applications/lxterminal.desktop
+TEXTDOMAIN=Linux-PAM
+_=/usr/bin/env
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m ps
+[?2004l    PID TTY          TIME CMD
+   1726 pts/1    00:00:00 bash
+   1789 pts/1    00:00:00 ps
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m pwd
+[?2004l/home/jack
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m git clone https://github.com/kevinwlu/iot.git
+[?2004lCloning into 'iot'...
+remote: Enumerating objects: 25595, done.[K
+remote: Counting objects:   6% (1/16)[Kremote: Counting objects:  12% (2/16)[Kremote: Counting objects:  18% (3/16)[Kremote: Counting objects:  25% (4/16)[Kremote: Counting objects:  31% (5/16)[Kremote: Counting objects:  37% (6/16)[Kremote: Counting objects:  43% (7/16)[Kremote: Counting objects:  50% (8/16)[Kremote: Counting objects:  56% (9/16)[Kremote: Counting objects:  62% (10/16)[Kremote: Counting objects:  68% (11/16)[Kremote: Counting objects:  75% (12/16)[Kremote: Counting objects:  81% (13/16)[Kremote: Counting objects:  87% (14/16)[Kremote: Counting objects:  93% (15/16)[Kremote: Counting objects: 100% (16/16)[Kremote: Counting objects: 100% (16/16), done.[K
+remote: Compressing objects:   7% (1/14)[Kremote: Compressing objects:  14% (2/14)[Kremote: Compressing objects:  21% (3/14)[Kremote: Compressing objects:  28% (4/14)[Kremote: Compressing objects:  35% (5/14)[Kremote: Compressing objects:  42% (6/14)[Kremote: Compressing objects:  50% (7/14)[Kremote: Compressing objects:  57% (8/14)[Kremote: Compressing objects:  64% (9/14)[Kremote: Compressing objects:  71% (10/14)[Kremote: Compressing objects:  78% (11/14)[Kremote: Compressing objects:  85% (12/14)[Kremote: Compressing objects:  92% (13/14)[Kremote: Compressing objects: 100% (14/14)[Kremote: Compressing objects: 100% (14/14), done.[K
+Receiving objects:   0% (1/25595)Receiving objects:   1% (256/25595)Receiving objects:   2% (512/25595)Receiving objects:   3% (768/25595)Receiving objects:   4% (1024/25595)Receiving objects:   5% (1280/25595)Receiving objects:   6% (1536/25595)Receiving objects:   7% (1792/25595)Receiving objects:   8% (2048/25595)Receiving objects:   9% (2304/25595)Receiving objects:  10% (2560/25595)Receiving objects:  11% (2816/25595)Receiving objects:  12% (3072/25595)Receiving objects:  13% (3328/25595)Receiving objects:  14% (3584/25595)Receiving objects:  15% (3840/25595)Receiving objects:  16% (4096/25595)Receiving objects:  17% (4352/25595)Receiving objects:  18% (4608/25595)Receiving objects:  19% (4864/25595)Receiving objects:  20% (5119/25595)Receiving objects:  21% (5375/25595)Receiving objects:  22% (5631/25595)Receiving objects:  23% (5887/25595)Receiving objects:  24% (6143/25595)Receiving objects:  25% (6399/25595), 7.98 MiB | 15.95 MiB/sReceiving objects:  25% (6615/25595), 14.13 MiB | 14.11 MiB/sReceiving objects:  26% (6655/25595), 14.13 MiB | 14.11 MiB/sReceiving objects:  27% (6911/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  28% (7167/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  29% (7423/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  30% (7679/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  31% (7935/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  32% (8191/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  33% (8447/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  34% (8703/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  35% (8959/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  36% (9215/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  37% (9471/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  38% (9727/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  39% (9983/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  40% (10238/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  41% (10494/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  42% (10750/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  43% (11006/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  44% (11262/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  45% (11518/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  46% (11774/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  47% (12030/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  48% (12286/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  49% (12542/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  50% (12798/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  51% (13054/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  52% (13310/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  53% (13566/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  54% (13822/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  55% (14078/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  56% (14334/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  57% (14590/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  58% (14846/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  59% (15102/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  60% (15357/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  61% (15613/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  62% (15869/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  63% (16125/25595), 20.67 MiB | 13.75 MiB/sReceiving objects:  63% (16233/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  64% (16381/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  65% (16637/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  66% (16893/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  67% (17149/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  68% (17405/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  69% (17661/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  70% (17917/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  71% (18173/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  72% (18429/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  73% (18685/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  74% (18941/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  75% (19197/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  76% (19453/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  77% (19709/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  78% (19965/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  79% (20221/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  80% (20476/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  81% (20732/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  82% (20988/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  83% (21244/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  84% (21500/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  85% (21756/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  86% (22012/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  87% (22268/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  88% (22524/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  89% (22780/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  90% (23036/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  91% (23292/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  92% (23548/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  93% (23804/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  94% (24060/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  95% (24316/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  96% (24572/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  97% (24828/25595), 28.20 MiB | 14.08 MiB/sremote: Total 25595 (delta 5), reused 0 (delta 0), pack-reused 25579 (from 1)[K
+Receiving objects:  98% (25084/25595), 28.20 MiB | 14.08 MiB/sReceiving objects:  99% (25340/25595), 28.20 MiB | 14.08 MiB/sReceiving objects: 100% (25595/25595), 28.20 MiB | 14.08 MiB/sReceiving objects: 100% (25595/25595), 33.54 MiB | 14.39 MiB/s, done.
+Resolving deltas:   0% (0/16573)Resolving deltas:   1% (166/16573)Resolving deltas:   2% (332/16573)Resolving deltas:   3% (498/16573)Resolving deltas:   4% (663/16573)Resolving deltas:   5% (829/16573)Resolving deltas:   6% (995/16573)Resolving deltas:   7% (1161/16573)Resolving deltas:   8% (1326/16573)Resolving deltas:   9% (1492/16573)Resolving deltas:  10% (1658/16573)Resolving deltas:  11% (1825/16573)Resolving deltas:  12% (1989/16573)Resolving deltas:  13% (2155/16573)Resolving deltas:  14% (2322/16573)Resolving deltas:  15% (2486/16573)Resolving deltas:  16% (2652/16573)Resolving deltas:  17% (2818/16573)Resolving deltas:  18% (2984/16573)Resolving deltas:  19% (3149/16573)Resolving deltas:  20% (3315/16573)Resolving deltas:  21% (3481/16573)Resolving deltas:  22% (3647/16573)Resolving deltas:  23% (3812/16573)Resolving deltas:  24% (3978/16573)Resolving deltas:  25% (4144/16573)Resolving deltas:  26% (4309/16573)Resolving deltas:  27% (4475/16573)Resolving deltas:  28% (4641/16573)Resolving deltas:  29% (4807/16573)Resolving deltas:  30% (4972/16573)Resolving deltas:  31% (5138/16573)Resolving deltas:  32% (5304/16573)Resolving deltas:  33% (5470/16573)Resolving deltas:  34% (5635/16573)Resolving deltas:  35% (5801/16573)Resolving deltas:  36% (5967/16573)Resolving deltas:  37% (6133/16573)Resolving deltas:  38% (6298/16573)Resolving deltas:  39% (6464/16573)Resolving deltas:  40% (6630/16573)Resolving deltas:  41% (6795/16573)Resolving deltas:  42% (6961/16573)Resolving deltas:  43% (7127/16573)Resolving deltas:  44% (7293/16573)Resolving deltas:  45% (7458/16573)Resolving deltas:  46% (7624/16573)Resolving deltas:  47% (7790/16573)Resolving deltas:  48% (7956/16573)Resolving deltas:  49% (8121/16573)Resolving deltas:  50% (8287/16573)Resolving deltas:  51% (8453/16573)Resolving deltas:  52% (8618/16573)Resolving deltas:  53% (8784/16573)Resolving deltas:  54% (8951/16573)Resolving deltas:  55% (9116/16573)Resolving deltas:  56% (9281/16573)Resolving deltas:  57% (9447/16573)Resolving deltas:  58% (9613/16573)Resolving deltas:  59% (9779/16573)Resolving deltas:  60% (9944/16573)Resolving deltas:  61% (10110/16573)Resolving deltas:  62% (10276/16573)Resolving deltas:  63% (10441/16573)Resolving deltas:  64% (10607/16573)Resolving deltas:  65% (10773/16573)Resolving deltas:  66% (10939/16573)Resolving deltas:  67% (11104/16573)Resolving deltas:  68% (11271/16573)Resolving deltas:  69% (11437/16573)Resolving deltas:  70% (11602/16573)Resolving deltas:  71% (11767/16573)Resolving deltas:  72% (11933/16573)Resolving deltas:  73% (12099/16573)Resolving deltas:  74% (12265/16573)Resolving deltas:  75% (12430/16573)Resolving deltas:  76% (12596/16573)Resolving deltas:  77% (12762/16573)Resolving deltas:  78% (12927/16573)Resolving deltas:  79% (13093/16573)Resolving deltas:  80% (13259/16573)Resolving deltas:  81% (13425/16573)Resolving deltas:  82% (13590/16573)Resolving deltas:  83% (13756/16573)Resolving deltas:  84% (13922/16573)Resolving deltas:  85% (14088/16573)Resolving deltas:  86% (14253/16573)Resolving deltas:  87% (14419/16573)Resolving deltas:  88% (14586/16573)Resolving deltas:  89% (14750/16573)Resolving deltas:  90% (14916/16573)Resolving deltas:  91% (15083/16573)Resolving deltas:  92% (15248/16573)Resolving deltas:  93% (15413/16573)Resolving deltas:  94% (15579/16573)Resolving deltas:  95% (15745/16573)Resolving deltas:  96% (15911/16573)Resolving deltas:  97% (16076/16573)Resolving deltas:  98% (16242/16573)Resolving deltas:  99% (16408/16573)Resolving deltas: 100% (16573/16573)Resolving deltas: 100% (16573/16573), done.
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m cd iot
+[?2004l[?2004h]0;jack@raspberrypi: ~/iot[01;32mjack@raspberrypi[00m:[01;34m~/iot $[00m ls
+[?2004l[0m[01;34mapps[0m       [01;34mhealth[0m    [01;34mlesson11[0m  [01;34mlesson5[0m  [01;34mlesson9[0m    [01;34mspecial_problems[0m
+[01;34mcases[0m      [01;34mhype[0m      [01;34mlesson2[0m   [01;34mlesson6[0m  [01;34mmake[0m       [01;34mstandards[0m
+[01;34mdesign[0m     [01;34mlesson1[0m   [01;34mlesson3[0m   [01;34mlesson7[0m  [01;34mprojects[0m   [01;34msystems[0m
+[01;34meconomics[0m  [01;34mlesson10[0m  [01;34mlesson4[0m   [01;34mlesson8[0m  README.md  [01;34mtools[0m
+[?2004h]0;jack@raspberrypi: ~/iot[01;32mjack@raspberrypi[00m:[01;34m~/iot $[00m cd
+[?2004l[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m df
+[?2004lFilesystem     1K-blocks    Used Available Use% Mounted on
+udev             1669956       0   1669956   0% /dev
+tmpfs             388240    1376    386864   1% /run
+/dev/mmcblk0p2   7082184 6320300    381832  95% /
+tmpfs            1941184     472   1940712   1% /dev/shm
+tmpfs               5120      16      5104   1% /run/lock
+/dev/mmcblk0p1    522230   69416    452814  14% /boot/firmware
+tmpfs             388236      44    388192   1% /run/user/1000
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m mkdir demo
+[?2004l[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m cd demo
+[?2004l[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m nano file
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                          file                                    [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m cat fio[Kle
+[?2004lcat: file: No such file or directory
+[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m cp file file1
+[?2004lcp: cannot stat 'file': No such file or directory
+[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m nano file
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                          file                                    [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;46H(B[0;7m*[79G(B[m[?12l[?25h[2dh[?25l[?12l[?25hh[?25l[?12l[?25hh[?25l[?12l[?25hh[?25l[?12l[?25hh[?25l[?12l[?25hh[?25l[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse[22d(B[0;7mFile Name to Write: file(B[m[?12l[?25h[?25l[22;33H[1K (B[0;7m[ Writing... ](B[m[K[1;46H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m nano filecp file file1[5Pat file
+[?2004lhhhhhh
+[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m cat file[1@nano[C[C[C[C[Ccp file file1
+[?2004l[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m mv file file2
+[?2004l[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m rm file2
+[?2004l[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m clear
+[?2004l[H[2J[3J[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m manuname[K[K[K[K[K uname
+[?2004l[?1049h[22;0;0t[?1h=UNAME(1)                         User Commands                        UNAME(1)[m
+[m
+[1mNAME[0m[m
+       uname - print system information[m
+[m
+[1mSYNOPSIS[0m[m
+       [1muname[0m [[4mOPTION[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       Print certain system information.  With no OPTION, same as [1m-s[0m.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              print  all  information,  in the following order, except omit [1m-p[0m[m
+              and [1m-i[0m if unknown:[m
+[m
+       [1m-s[0m, [1m--kernel-name[0m[m
+              print the kernel name[m
+[m
+       [1m-n[0m, [1m--nodename[0m[m
+              print the network node hostname[m
+[m
+       [1m-r[0m, [1m--kernel-release[0m[m
+              print the kernel release[m
+[7m Manual page uname(1) line 1 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page uname(1) line 2 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m uname -a
+[?2004lLinux raspberrypi 6.12.20+rpt-rpi-v8 #1 SMP PREEMPT Debian 1:6.12.20-1+rpt1~bpo12+1 (2025-03-19) aarch64 GNU/Linux
+[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m ifconfig
+[?2004leth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.196  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::48bb:8249:3c80:136d  prefixlen 64  scopeid 0x20<link>
+        inet6 2600:4041:44d4:2e00:4988:16b5:6984:57a8  prefixlen 64  scopeid 0x0<global>
+        ether 2c:cf:67:80:7f:36  txqueuelen 1000  (Ethernet)
+        RX packets 26711  bytes 37722790 (35.9 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 7317  bytes 527102 (514.7 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 21  bytes 2491 (2.4 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 21  bytes 2491 (2.4 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.198  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 2600:4041:44d4:2e00:43ab:bb63:25f7:966f  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::c695:bd0e:b98a:b176  prefixlen 64  scopeid 0x20<link>
+        ether 2c:cf:67:80:7f:37  txqueuelen 1000  (Ethernet)
+        RX packets 733  bytes 111510 (108.8 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 142  bytes 27149 (26.5 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m ping localhost
+[?2004lPING localhost(localhost (::1)) 56 data bytes
+64 bytes from localhost (::1): icmp_seq=1 ttl=64 time=0.145 ms
+64 bytes from localhost (::1): icmp_seq=2 ttl=64 time=0.111 ms
+64 bytes from localhost (::1): icmp_seq=3 ttl=64 time=0.133 ms
+64 bytes from localhost (::1): icmp_seq=4 ttl=64 time=0.131 ms
+^C
+--- localhost ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3050ms
+rtt min/avg/max/mdev = 0.111/0.130/0.145/0.012 ms
+[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m netstat
+[?2004lActive Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+udp        0      0 raspberrypi:bootpc      CR1000A.mynetwor:bootps ESTABLISHED
+udp        0      0 192.168.1.198:bootpc    CR1000A.mynetwor:bootps ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ]         DGRAM      CONNECTED     8696     
+unix  3      [ ]         STREAM     CONNECTED     7038     
+unix  3      [ ]         STREAM     CONNECTED     8023     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7039     
+unix  3      [ ]         STREAM     CONNECTED     8005     
+unix  3      [ ]         STREAM     CONNECTED     9424     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     8501     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    6722     
+unix  3      [ ]         STREAM     CONNECTED     10542    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     6728     
+unix  3      [ ]         STREAM     CONNECTED     8006     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7151     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8022     
+unix  3      [ ]         STREAM     CONNECTED     1942     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8698     
+unix  3      [ ]         STREAM     CONNECTED     9225     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     11412    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2023     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7987     
+unix  3      [ ]         STREAM     CONNECTED     7503     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8539     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     1966     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8997     
+unix  3      [ ]         STREAM     CONNECTED     9876     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7979     
+unix  2      [ ]         DGRAM      CONNECTED     1687     
+unix  3      [ ]         STREAM     CONNECTED     9025     
+unix  2      [ ]         DGRAM                    6618     /run/user/1000/systemd/notify
+unix  3      [ ]         STREAM     CONNECTED     9229     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7035     /run/user/1000/wayland-0
+unix  3      [ ]         STREAM     CONNECTED     1677     
+unix  3      [ ]         STREAM     CONNECTED     7992     
+unix  3      [ ]         STREAM     CONNECTED     7037     
+unix  3      [ ]         STREAM     CONNECTED     6358     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     6745     
+unix  3      [ ]         STREAM     CONNECTED     8540     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7988     
+unix  3      [ ]         STREAM     CONNECTED     8474     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11425    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     1688     
+unix  3      [ ]         STREAM     CONNECTED     6997     
+unix  3      [ ]         STREAM     CONNECTED     8603     /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     1689     
+unix  3      [ ]         STREAM     CONNECTED     8017     
+unix  3      [ ]         STREAM     CONNECTED     11456    
+unix  3      [ ]         STREAM     CONNECTED     8693     
+unix  3      [ ]         STREAM     CONNECTED     8602     
+unix  3      [ ]         STREAM     CONNECTED     7033     
+unix  3      [ ]         STREAM     CONNECTED     11462    
+unix  3      [ ]         STREAM     CONNECTED     8251     
+unix  3      [ ]         STREAM     CONNECTED     9005     
+unix  3      [ ]         STREAM     CONNECTED     8021     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     2017     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9775     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7956     
+unix  3      [ ]         STREAM     CONNECTED     7673     
+unix  3      [ ]         STREAM     CONNECTED     7431     
+unix  3      [ ]         STREAM     CONNECTED     6455     
+unix  3      [ ]         DGRAM      CONNECTED     2786     
+unix  3      [ ]         STREAM     CONNECTED     9778     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7539     /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     2785     
+unix  3      [ ]         STREAM     CONNECTED     9773     
+unix  3      [ ]         STREAM     CONNECTED     7344     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1788     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     6744     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8272     
+unix  3      [ ]         STREAM     CONNECTED     7955     
+unix  3      [ ]         STREAM     CONNECTED     7343     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7606     
+unix  3      [ ]         STREAM     CONNECTED     10502    
+unix  3      [ ]         STREAM     CONNECTED     6436     
+unix  3      [ ]         STREAM     CONNECTED     9732     
+unix  3      [ ]         STREAM     CONNECTED     7342     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10535    /run/cups/cups.sock
+unix  3      [ ]         DGRAM      CONNECTED     6619     
+unix  3      [ ]         STREAM     CONNECTED     7432     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     8502     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     6607     
+unix  3      [ ]         STREAM     CONNECTED     7115     
+unix  3      [ ]         STREAM     CONNECTED     9777     
+unix  2      [ ]         DGRAM      CONNECTED     6597     
+unix  3      [ ]         STREAM     CONNECTED     6537     
+unix  3      [ ]         STREAM     CONNECTED     8600     /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     6774     /run/user/1000/wayland-0
+unix  3      [ ]         STREAM     CONNECTED     9733     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7474     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7036     /run/user/1000/wayland-0
+unix  3      [ ]         STREAM     CONNECTED     8587     /run/user/1000/gvfsd/socket-JydlNswg
+unix  3      [ ]         STREAM     CONNECTED     9731     /run/user/1000/wayland-0
+unix  4      [ ]         DGRAM      CONNECTED     2784     /run/systemd/notify
+unix  3      [ ]         STREAM     CONNECTED     1873     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9774     
+unix  3      [ ]         STREAM     CONNECTED     8264     
+unix  3      [ ]         STREAM     CONNECTED     6587     
+unix  3      [ ]         STREAM     CONNECTED     9293     
+unix  3      [ ]         STREAM     CONNECTED     8265     
+unix  2      [ ]         DGRAM      CONNECTED     7634     
+unix  17     [ ]         DGRAM      CONNECTED     2806     /run/systemd/journal/dev-log
+unix  7      [ ]         DGRAM      CONNECTED     2808     /run/systemd/journal/socket
+unix  3      [ ]         STREAM     CONNECTED     6469     
+unix  3      [ ]         STREAM     CONNECTED     8303     
+unix  3      [ ]         STREAM     CONNECTED     916      /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     1635     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7554     /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     527      
+unix  3      [ ]         DGRAM      CONNECTED     520      
+unix  3      [ ]         STREAM     CONNECTED     8549     
+unix  3      [ ]         STREAM     CONNECTED     8432     
+unix  3      [ ]         STREAM     CONNECTED     9253     /run/user/1000/wayland-0
+unix  3      [ ]         STREAM     CONNECTED     6676     
+unix  3      [ ]         STREAM     CONNECTED     2015     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8520     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7963     
+unix  3      [ ]         STREAM     CONNECTED     8499     
+unix  3      [ ]         STREAM     CONNECTED     6324     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     530      
+unix  2      [ ]         DGRAM      CONNECTED     5664     
+unix  3      [ ]         STREAM     CONNECTED     8545     
+unix  3      [ ]         STREAM     CONNECTED     6303     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8512     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7652     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     8003     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8513     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     5643     
+unix  3      [ ]         STREAM     CONNECTED     8519     
+unix  3      [ ]         STREAM     CONNECTED     2036     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7034     /run/user/1000/wayland-0
+unix  3      [ ]         STREAM     CONNECTED     7046     /run/user/1000/wayland-0
+unix  3      [ ]         STREAM     CONNECTED     9292     
+unix  3      [ ]         STREAM     CONNECTED     7084     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     1308     
+unix  3      [ ]         STREAM     CONNECTED     8541     
+unix  3      [ ]         STREAM     CONNECTED     6623     
+unix  3      [ ]         STREAM     CONNECTED     7968     
+unix  3      [ ]         STREAM     CONNECTED     5412     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7103     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8027     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8566     
+unix  3      [ ]         STREAM     CONNECTED     6299     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8038     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8515     
+unix  3      [ ]         STREAM     CONNECTED     7967     
+unix  3      [ ]         STREAM     CONNECTED     536      
+unix  3      [ ]         STREAM     CONNECTED     5622     
+unix  3      [ ]         STREAM     CONNECTED     8249     /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONNECTED     1323     
+unix  3      [ ]         STREAM     CONNECTED     9290     
+unix  3      [ ]         STREAM     CONNECTED     8389     
+unix  3      [ ]         STREAM     CONNECTED     8010     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     9289     
+unix  3      [ ]         STREAM     CONNECTED     6315     /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     2881     
+unix  3      [ ]         STREAM     CONNECTED     8390     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     908      /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     521      
+unix  2      [ ]         DGRAM      CONNECTED     1317     
+unix  3      [ ]         STREAM     CONNECTED     8300     
+unix  3      [ ]         STREAM     CONNECTED     8039     /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     1322     
+unix  3      [ ]         STREAM     CONNECTED     8562     
+unix  3      [ ]         STREAM     CONNECTED     6460     
+unix  3      [ ]         STREAM     CONNECTED     8498     
+unix  3      [ ]         STREAM     CONNECTED     1893     /run/user/1000/bus
+unix  3      [ ]         DGRAM      CONNECTED     6244     
+unix  2      [ ]         DGRAM      CONNECTED     6502     
+unix  3      [ ]         STREAM     CONNECTED     6288     
+unix  3      [ ]         STREAM     CONNECTED     9266     
+unix  3      [ ]         STREAM     CONNECTED     7066     
+unix  3      [ ]         STREAM     CONNECTED     1761     
+unix  3      [ ]         STREAM     CONNECTED     1865     
+unix  3      [ ]         STREAM     CONNECTED     9299     /run/user/1000/menu-cached-:0
+unix  3      [ ]         STREAM     CONNECTED     7497     /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     543      
+unix  3      [ ]         STREAM     CONNECTED     7098     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8011     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8004     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     6677     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7505     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7334     
+unix  3      [ ]         STREAM     CONNECTED     5649     
+unix  3      [ ]         STREAM     CONNECTED     6432     
+unix  3      [ ]         STREAM     CONNECTED     8040     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7504     
+unix  3      [ ]         STREAM     CONNECTED     985      
+unix  3      [ ]         STREAM     CONNECTED     6515     
+unix  3      [ ]         STREAM     CONNECTED     6349     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8014     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     1941     
+unix  3      [ ]         STREAM     CONNECTED     1762     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     7345     
+unix  3      [ ]         STREAM     CONNECTED     7089     
+unix  3      [ ]         STREAM     CONNECTED     9232     
+unix  3      [ ]         STREAM     CONNECTED     8573     
+unix  3      [ ]         STREAM     CONNECTED     7389     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     6353     /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     6684     
+unix  3      [ ]         STREAM     CONNECTED     9280     /run/user/1000/wayland-0
+unix  3      [ ]         STREAM     CONNECTED     7073     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1808     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7335     
+unix  3      [ ]         DGRAM      CONNECTED     6245     
+unix  2      [ ]         DGRAM      CONNECTED     942      
+unix  2      [ ]         DGRAM      CONNECTED     1713     
+unix  3      [ ]         STREAM     CONNECTED     7085     
+unix  3      [ ]         STREAM     CONNECTED     7451     
+unix  2      [ ]         DGRAM      CONNECTED     7346     
+unix  3      [ ]         STREAM     CONNECTED     8567     
+unix  3      [ ]         STREAM     CONNECTED     8015     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     1847     
+unix  2      [ ]         DGRAM      CONNECTED     1711     
+unix  3      [ ]         STREAM     CONNECTED     9282     /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     7339     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7086     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9256     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     6679     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    952      
+unix  3      [ ]         STREAM     CONNECTED     9254     
+unix  3      [ ]         STREAM     CONNECTED     8378     /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     8571     
+unix  3      [ ]         STREAM     CONNECTED     7071     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7341     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    8582     
+unix  3      [ ]         DGRAM      CONNECTED     6620     
+unix  3      [ ]         STREAM     CONNECTED     7337     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7070     
+unix  3      [ ]         STREAM     CONNECTED     9233     
+unix  3      [ ]         STREAM     CONNECTED     7553     
+unix  3      [ ]         STREAM     CONNECTED     7496     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     953      
+unix  3      [ ]         STREAM     CONNECTED     1710     
+unix  2      [ ]         DGRAM      CONNECTED     8581     
+unix  2      [ ]         DGRAM      CONNECTED     1880     
+unix  2      [ ]         DGRAM      CONNECTED     7458     
+unix  3      [ ]         STREAM     CONNECTED     8036     /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     2016     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     1780     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     5303     
+unix  3      [ ]         STREAM     CONNECTED     6661     
+unix  3      [ ]         STREAM     CONNECTED     6350     
+unix  3      [ ]         STREAM     CONNECTED     7081     
+unix  3      [ ]         STREAM     CONNECTED     7525     
+unix  3      [ ]         STREAM     CONNECTED     349      /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8584     
+unix  3      [ ]         STREAM     CONNECTED     8500     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     6678     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     938      /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     8583     
+unix  2      [ ]         DGRAM      CONNECTED     6240     
+unix  3      [ ]         STREAM     CONNECTED     8077     
+unix  3      [ ]         DGRAM      CONNECTED     6685     
+unix  3      [ ]         STREAM     CONNECTED     7080     
+unix  3      [ ]         STREAM     CONNECTED     9255     
+unix  3      [ ]         STREAM     CONNECTED     7526     
+unix  3      [ ]         STREAM     CONNECTED     6495     
+unix  3      [ ]         STREAM     CONNECTED     6526     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10539    /run/cups/cups.sock
+unix  3      [ ]         DGRAM      CONNECTED     6246     
+unix  3      [ ]         STREAM     CONNECTED     6668     
+unix  3      [ ]         STREAM     CONNECTED     7096     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9272     
+unix  3      [ ]         STREAM     CONNECTED     8377     /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     967      
+unix  3      [ ]         STREAM     CONNECTED     9267     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     6680     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7520     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11461    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     2014     
+unix  3      [ ]         STREAM     CONNECTED     8577     
+unix  3      [ ]         STREAM     CONNECTED     7082     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     1940     
+unix  3      [ ]         STREAM     CONNECTED     1895     /run/user/1000/bus
+unix  2      [ ]         DGRAM                    1807     /run/wpa_supplicant/wlan0
+unix  2      [ ]         DGRAM                    1815     /run/wpa_supplicant/p2p-dev-wlan0
+unix  3      [ ]         STREAM     CONNECTED     8595     
+unix  3      [ ]         STREAM     CONNECTED     9291     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     2022     
+unix  3      [ ]         STREAM     CONNECTED     7547     
+unix  3      [ ]         DGRAM      CONNECTED     6247     
+unix  3      [ ]         STREAM     CONNECTED     10549    
+unix  3      [ ]         STREAM     CONNECTED     1866     
+unix  3      [ ]         STREAM     CONNECTED     1782     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7338     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9268     
+unix  2      [ ]         DGRAM                    6426     
+unix  3      [ ]         STREAM     CONNECTED     1695     
+unix  3      [ ]         STREAM     CONNECTED     8596     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8578     
+unix  3      [ ]         STREAM     CONNECTED     1894     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     5680     
+unix  3      [ ]         STREAM     CONNECTED     6224     
+[?2004h]0;jack@raspberrypi: ~/demo[01;32mjack@raspberrypi[00m:[01;34m~/demo $[00m exit
+[?2004lexit
+
+Script done on 2025-04-27 23:20:44-04:00 [COMMAND_EXIT_CODE="0"]
