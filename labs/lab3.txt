@@ -1,0 +1,145 @@
+Script started on 2025-04-29 12:15:13-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;jack@raspberrypi: ~[01;32mjack@raspberrypi[00m:[01;34m~ $[00m exitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Python3 cpu.pybattery.pydocumentstats.py document.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[Kcd iot
+[?2004l[?2004h]0;jack@raspberrypi: ~/iot[01;32mjack@raspberrypi[00m:[01;34m~/iot $[00m cd *3
+[?2004l[?2004h]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m spur[K[K[K[Ksource venv/bin/activate
+[?2004l[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m source venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csun.py "New York"[2Ptime_example.pydatetime_example.py[4P_example.py[6Pjulian.py
+[?2004lCalendar Date: 2025-04-29
+Julian Date: 2460794.5
+Modified Julian Date: 60794.0
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 julian.pysource venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csun.py "New York"[2Ptime_example.pydatetime_example.py[4P_example.py[6Pjulian.pysource venv/bin/activatepython3 sun.py "New York"[1Psource venv/bin/activate[7Ppython3 julian.pydate_example.py
+[?2004lDate: 2025-04-29
+Date: 04-29-25
+Day of Week: Tuesday
+Month: April
+Year: 2025
+98 days after the first day of classes
+8 days before the last day of classes
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 date_example.py[6Pjulian.pysource venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csun.py "New York"[2Ptime_example.pydatetime_example.py
+[?2004l2025-04-29 12:16:17.924877
+2025-04-29 12:16:17.925241
+2025-04-29 16:16:17.925371
+1745943377.925487
+Tue Apr 29 12:16:17 2025
+2025-04-29 12:16:17.925776
+2025-04-29 16:16:17.925885
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 datetime_example.py[4P_example.py[6Pjulian.pysource venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csun.py "New York"[2Ptime_example.pydatetime_example.py[4Ptime_example.py
+[?2004lTue Apr 29 12:16:29 2025
+^C[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 time_example.pydatetime_example.py[4P_example.py[6Pjulian.pysource venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csun.py "New York"[2Ptime_example.pysun.py "New York"[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K3 sun.py "New York"
+[?2004lpython3: can't open file '/home/jack/iot/lesson3/3': [Errno 2] No such file or directory
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 3 sun.py "New York"
+[?2004lpython3: can't open file '/home/jack/iot/lesson3/3': [Errno 2] No such file or directory
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 3 sun.py "New York"[1P[1P
+[?2004lInformation for New York/USA
+
+Timezone: US/Eastern
+Latitude: 40.72; Longitude: -74.00
+
+Dawn:    2025-04-29 05:26:58.133350-04:00
+Sunrise: 2025-04-29 05:57:03.856809-04:00
+Noon:    2025-04-29 12:53:23-04:00
+Sunset:  2025-04-29 19:50:12.285136-04:00
+Dusk:    2025-04-29 20:20:24.471803-04:00
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 sun.py "New York"[2@3 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Ptime_example.pydatetime_example.py[4P_example.py[6Pjulian.pysource venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l2025-04-29 Moon Phase: 1
+2025-04-30 Moon Phase: 2
+2025-05-01 Moon Phase: 3
+2025-05-02 Moon Phase: 4
+2025-05-03 Moon Phase: 5
+2025-05-04 Moon Phase: 6
+2025-05-05 Moon Phase: 7
+2025-05-06 Moon Phase: 8
+2025-05-07 Moon Phase: 9
+2025-05-08 Moon Phase: 10
+2025-05-09 Moon Phase: 11
+2025-05-10 Moon Phase: 12
+2025-05-11 Moon Phase: 13
+2025-05-12 Moon Phase: 13
+2025-05-13 Moon Phase: 14
+2025-05-14 Moon Phase: 15
+2025-05-15 Moon Phase: 16
+2025-05-16 Moon Phase: 17
+2025-05-17 Moon Phase: 18
+2025-05-18 Moon Phase: 19
+2025-05-19 Moon Phase: 20
+2025-05-20 Moon Phase: 20
+2025-05-21 Moon Phase: 21
+2025-05-22 Moon Phase: 22
+2025-05-23 Moon Phase: 23
+2025-05-24 Moon Phase: 25
+2025-05-25 Moon Phase: 26
+2025-05-26 Moon Phase: 27
+2025-05-27 Moon Phase: 0
+2025-05-28 Moon Phase: 1
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 moon.pysun.py "New York"[2@3 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Ptime_example.pydatetime_example.py[4P_example.py[6Pjulian.pysource venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. Williams Library"
+[?2004lTraceback (most recent call last):
+  File "/home/jack/iot/lesson3/venv/lib/python3.11/site-packages/geopy/adapters.py", line 298, in get_text
+    page = self.urlopen(req, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 1352, in do_open
+    r = h.getresponse()
+        ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/usr/lib/python3.11/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jack/iot/lesson3/coordinates.py", line 5, in <module>
+    location = geolocator.geocode(address)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jack/iot/lesson3/venv/lib/python3.11/site-packages/geopy/geocoders/nominatim.py", line 297, in geocode
+    return self._call_geocoder(url, callback, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jack/iot/lesson3/venv/lib/python3.11/site-packages/geopy/geocoders/base.py", line 368, in _call_geocoder
+    result = self.adapter.get_json(url, timeout=timeout, headers=req_headers)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jack/iot/lesson3/venv/lib/python3.11/site-packages/geopy/adapters.py", line 287, in get_json
+    text = self.get_text(url, timeout=timeout, headers=headers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jack/iot/lesson3/venv/lib/python3.11/site-packages/geopy/adapters.py", line 320, in get_text
+    raise GeocoderTimedOut("Service timed out")
+geopy.exc.GeocoderTimedOut: Service timed out
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 coordinates.py "Samuel C. Williams Library"
+[?2004lSamuel C. Williams Library, Field House Road, Uptown, Hoboken, Hudson County, New Jersey, 07030, United States
+(40.7448068, -74.0253286)
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 coordinates.py "Samuel C. Williams Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csun.py "New York"[2@3 [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Ptime_example.pydatetime_example.py[4P_example.py[6Pjulian.pysource venv/bin/activatecd *3[Kiot[2Pexitpython3 documentstats.py document.txt[19Pbattery.py[4Pcpu.pyip install --upgrade psutil[14Python3 cpu.pyaddress.py "40.74480675, -74.02532861159351"
+[?2004lStevens Institute of Technology, 1, Wittpenn Walk, Uptown, Hoboken, Hudson County, New Jersey, 07030, United States
+(40.7448096, -74.0252392)
+[?2004h(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m python3 address.py "40.74480675, -74.02532861159351"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Ccoordinates.py "Samuel C. William[1Ps Library"[A(venv) ]0;jack@raspberrypi: ~/iot/lesson3[01;32mjack@raspberrypi[00m:[01;34m~/iot/lesson3 $[00m [C[C[C[C[C[C[C[Cmoon.py[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[
