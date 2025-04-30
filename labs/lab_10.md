@@ -18,8 +18,8 @@
 
 <img src="lab_10_running_cloner.png" alt="lab_10_running_cloner" >
 
-<img src="lab_10_snakecoin_sever_2.png" alt="lab_10_snakecoin_server_2" >
+<img src="lab_10_snakecoin_server_2.png" alt="lab_10_snakecoin_server_2" >
 
 <img src="lab_10_block1.png" alt="lab_10_block1" >
 
-<img src="lab_10_snakecoin_sever_mine.png" alt="lab_10_snakecoin_server_mine" >
+<img src="lab_10_snakecoin_server_mine.png" alt="lab_10_snakecoin_server_mine" >
