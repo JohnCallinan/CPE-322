@@ -22,4 +22,4 @@
 
 <img src="lab_10_block1.png" alt="lab_10_block1" >
 
-<img src="lab_10_snakecoin_server_mine" alt="lab_10_snakecoin_server_mine" >
+<img src="lab_10_snakecoin_server_mine.png" alt="lab_10_snakecoin_server_mine" >
