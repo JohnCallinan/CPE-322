@@ -1,6 +1,6 @@
 **Hash Twice:**
 
-<img src="lab_10_hash.png" alt="lab_10_hash" >
+<img src="lab_10_hash_value.png" alt="lab_10_hash" >
 
 **Snakecoin:**
 
